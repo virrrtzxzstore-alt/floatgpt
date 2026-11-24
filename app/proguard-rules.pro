@@ -1,0 +1,2 @@
+-keep class com.bench.floatgpt.** { *; }
+-keepattributes *Annotation*
